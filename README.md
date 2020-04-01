@@ -6,4 +6,4 @@ Game logic and code inspired by Stanford's iOS programming class from Paul Hegar
 
 App screenshot: 
 
-[Screenshot](blob:https://imgur.com/54f310b2-c35f-4e83-b707-6591e0326f50)
+![Screenshot](blob:https://imgur.com/54f310b2-c35f-4e83-b707-6591e0326f50)
