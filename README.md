@@ -1,8 +1,10 @@
 # MemoryGame
 
-This simple app implements the game of memory. THe objective is to flip cards over to find pairs. If the cards flipped over match, those cards remain flipped up for the remainder of the game. The objective is to flip over all cards in as few moves as possible.
+This app implements a simple version of the Memory Game. THe objective is to flip cards over to find pairs. If the cards flipped over match (have the same image), those cards remain flipped up for the remainder of the game. The objective is to flip over all cards in as few moves as possible.
 
-Game logic and code inspired by Stanford's iOS programming class from Paul Hegarty. Video [link](https://www.youtube.com/watch?v=ilQ-tq772VI&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai).
+Learn how to build this app from my video tutorial on YouTube: https://youtu.be/U4Wtjewy7EY.
+
+Game logic and code inspired by Stanford's iOS programming class from Paul Hegarty. 
 
 App screenshot: 
 
